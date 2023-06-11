@@ -1,4 +1,3 @@
-
 if (!self.__uv) {
     __uvHook(self, self.__uv$config, self.__uv$config.bare);
 };
