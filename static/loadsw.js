@@ -1,3 +1,4 @@
+
 /*global UVServiceWorker,__uv$config*/
 /*
  * Stock service worker script.
